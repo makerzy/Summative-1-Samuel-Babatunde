@@ -49,9 +49,4 @@ public class Magic8Controller {
         }
         return m8;
     }
-
-
-
-
-
 }
